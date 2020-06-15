@@ -3,8 +3,7 @@
 </h1>
 
 <h3 align="center">
-  Desafio 1-1: Primeiros passos com JS
-  Concluído o/
+  Desafio 1-1: Primeiros passos com JS - Concluído o/ o/ o/ 
 </h3>
 
 <blockquote align="center">“Querer vencer significa já ter percorrido metade do caminho.”</blockquote>
